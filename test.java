@@ -1,6 +1,6 @@
 import java.util.*;
-public class HelloWorld{
+public class test{ //class must match name of java file 
   public static void main(String[] args) {
-    System.out.print();
+    System.out.println("Hello World!");
   }
 }
